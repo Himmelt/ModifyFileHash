@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">修改文件Hash</string>
+    <string name="textButton">修 改</string>
+    <string name="textSwitch">是否覆盖</string>
+</resources>
